@@ -135,10 +135,11 @@ height: 45px;
 }
 
 /*footer section*/
-footer{
+
+footer
+{
   display: flex;
   flex-direction: column;
-  
 }
 .footer-container
 {
